@@ -8,7 +8,7 @@
 
 
 "MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -53,7 +53,7 @@
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "4045251",
-"UNITY_TEST_MODE" : "true",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
