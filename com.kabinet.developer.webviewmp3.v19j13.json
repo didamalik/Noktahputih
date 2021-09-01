@@ -33,11 +33,8 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
-
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "ca-app-pub-9937728908933746/2422133410",
+"ADMOB_INTER" : "ca-app-pub-9937728908933746/6173676168",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
