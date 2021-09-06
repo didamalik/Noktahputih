@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "",
+"HOMEURL" : "https://semogajadii354.blogspot.com/2021/09/panduan-kredit-mobil-online.html",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
@@ -29,7 +29,7 @@
 
 "ads_on_exit_dialog" : true,
 
-"Mode_offline_mp3" : true,
+"Mode_offline_mp3" : false,
 "Enable_Sticky_Notification" : true,
 
 
@@ -56,7 +56,7 @@
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "4045251",
-"UNITY_TEST_MODE" : "true",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
