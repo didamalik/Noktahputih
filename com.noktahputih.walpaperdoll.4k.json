@@ -4,7 +4,7 @@
 "json_popup_wait" : "Server Ready - v18j13",
   
 "mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -30,7 +30,7 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "208526686",
 
 "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
 "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
@@ -51,8 +51,8 @@
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
-"unity_id" : 4045251,
-"unity_test" : true,
+"unity_id" : "",
+"unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
